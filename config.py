@@ -1,5 +1,5 @@
-BOT_TOKEN = '在這裡填入你的Telegram Bot Token'
-CHAT_ID = '在這裡填入你的聊天室 ID'
+BOT_TOKEN = '7479198697:AAHwy8OG8OZzcZjzyI6eRdP3YaCYcNVYR-I'
+CHAT_ID = '7544265351'
 
 CHECK_INTERVAL = 180  # 偵測時間間隔（秒）
 
